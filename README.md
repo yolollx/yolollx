@@ -206,9 +206,9 @@ Always open to collaboration.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yolollx&show_icons=true&hide_border=true&theme=transparent"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yolollx&theme=transparent"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yolollx&layout=compact&hide_border=true&theme=transparent"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yolollx&theme=transparent"/>
 
 </div>
 
