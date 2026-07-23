@@ -8,15 +8,15 @@ Building AI-native applications, scalable backend systems, and developer tools.
 
 <p>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge"/>
+<a href="https://github.com/yolollx">
+<img src="https://img.shields.io/github/followers/yolollx?label=Followers&style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
+<a href="https://github.com/yolollx?tab=repositories">
 <img src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/yolollx">
 <img src="https://img.shields.io/badge/GitHub-Developer%20Program-black?style=for-the-badge"/>
 </a>
 
@@ -182,7 +182,7 @@ A continuously evolving engineering handbook covering modern software developmen
 
 ### Documentation
 
-➡️ https://lixi20.github.io/FSE/
+➡️ https://yolollx.github.io/FSE/
 
 ---
 
@@ -206,9 +206,9 @@ Always open to collaboration.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yolollx&show_icons=true&hide_border=true&theme=transparent"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yolollx&layout=compact&hide_border=true&theme=transparent"/>
 
 </div>
 
@@ -216,7 +216,7 @@ Always open to collaboration.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yolollx&theme=github-compact&hide_border=true"/>
 
 </div>
 
@@ -258,7 +258,7 @@ lixi0506cd@gmail.com
 
 ### Website
 
-https://lixi20.github.io/FSE/
+https://yolollx.github.io/FSE/
 
 ---
 
@@ -266,6 +266,6 @@ https://lixi20.github.io/FSE/
 
 ### Thanks for stopping by.
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=yolollx&style=flat-square"/>
 
 </div>
