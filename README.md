@@ -1,6 +1,6 @@
 <div align="center">
 
-# YOLO LL
+# YOLO LLX
 
 ### Full Stack Engineer · AI Engineer · System Engineer
 
@@ -22,7 +22,7 @@ Building AI-native applications, scalable backend systems, and developer tools.
 
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1500&center=true&vCenter=true&width=850&color=58A6FF&lines=Building+AI-native+Applications.;Full+Stack+Engineer.;System+Engineer.;Open+Source+Contributor.;Always+Learning+Something+New."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1500&center=true&vCenter=true&width=850&color=58A6FF&lines=Building+AI-native+Applications.;Fu+Stack+Engineer.;System+Engineer.;Open+Source+Contributor.;Always+Learning+Something+New."/>
 
 </div>
 
@@ -31,7 +31,7 @@ Building AI-native applications, scalable backend systems, and developer tools.
 # 👋 About Me
 
 ```yaml
-name: YOLO LL
+name: YOLO LLX
 
 location:
   city: Chengdu
